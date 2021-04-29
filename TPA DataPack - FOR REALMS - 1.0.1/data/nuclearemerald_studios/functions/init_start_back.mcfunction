@@ -1,3 +1,0 @@
-tellraw @s {"text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}
-tellraw @s ["",{"text": "\n-","color": "gold"},{"text":"NUCLEAREMERALD","color":"gold"},{"text": "-","color": "gold"},{"text":"STUDIOS","color":"gold"},{"text": "-","color": "gold"},{"text":"DATAPACKS","color":"gold"},{"text": "--------------------","color": "gold"}]
-schedule function nuclearemerald_studios:init_end_back 2t
