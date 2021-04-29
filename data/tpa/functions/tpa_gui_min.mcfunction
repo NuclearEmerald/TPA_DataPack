@@ -1,1 +1,0 @@
-tellraw @a ["",{"text":"TPA DataPack ","color":"red"},{"text":"\u25b6","color":"gold","clickEvent": {"action": "run_command","value": "/trigger tpainfo"}}]
