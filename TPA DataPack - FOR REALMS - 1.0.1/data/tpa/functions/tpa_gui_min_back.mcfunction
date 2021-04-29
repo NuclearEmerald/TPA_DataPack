@@ -1,0 +1,2 @@
+tellraw @a[scores={back=1..}] ["",{"text":"TPA DataPack ","color":"red"},{"text":"\u25b6","color":"gold","clickEvent": {"action": "run_command","value": "/trigger tpainfo"}}]
+execute as @a[scores={back=1}] run scoreboard players set @s back 2
